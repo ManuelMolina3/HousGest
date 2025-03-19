@@ -10,7 +10,7 @@ This app is divided into two part:
 First has Mobile UI:
 In this part you can register your supermarket shopping cart when you buy, and the application thanks to your geolocation will help you make a cheaper purchase in supermarkets near you with product that you like.
 In this part too you can register your electricity contract and the application will provide you with different contracts from other companies or from the same company to save according to your needs in the electricity bill.
-Other functionality is 
+Other functionality is other funtionality
 # Function
 
 # Project deployment
